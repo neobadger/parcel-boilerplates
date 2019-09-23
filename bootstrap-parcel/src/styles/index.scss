@@ -1,0 +1,9 @@
+@import './globals';
+
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('../static/img/masthead-bg.png');
+  background-position: center;
+  background-repeat: repeat;
+}

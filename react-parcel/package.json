@@ -1,0 +1,26 @@
+{
+  "name": "react-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html -p 5500",
+    "launch": "start chrome --incognito http://localhost:5500"
+  },
+  "keywords": [],
+  "author": "James Nicholson <neo@neobadger.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^9.6.1",
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.12.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "sass": "^1.22.12"
+  }
+}

@@ -1,0 +1,7 @@
+@import './vendor/mustard-ui/mustard-ui.scss';
+
+@mixin google-font($family) {
+  @import url('http://fonts.googleapis.com/css?family=#{$family}');
+}
+
+@include google-font('Open+Sans:300,400,600,700');

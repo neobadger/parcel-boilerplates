@@ -1,0 +1,9 @@
+@import '../styles/globals.scss';
+
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('./img/masthead-bg.png');
+  background-position: center;
+  background-repeat: repeat;
+}

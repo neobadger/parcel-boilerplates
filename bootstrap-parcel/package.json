@@ -1,0 +1,24 @@
+{
+  "name": "parcel-bootstrap",
+  "version": "1.0.1",
+  "description": "A collection of (relatively) unopinionated build templates that leverages Parcel Bundler in each.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel src/index.html -p 5500",
+    "build": "npx parcel build src/index.html",
+    "launch": "start chrome --incognito http://127.0.0.1:5500/index.html"
+  },
+  "keywords": [],
+  "author": "James Nicholson <neo@neobadger.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^9.6.1",
+    "parcel-bundler": "^1.12.3",
+    "sass": "^1.22.3"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}

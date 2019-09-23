@@ -1,0 +1,17 @@
+// 🐈 Core style imports here.
+
+body {
+  background-color: coral;
+  overflow: hidden;
+}
+
+#app {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.wrapper {
+  align-self: center;
+}
