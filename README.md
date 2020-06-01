@@ -4,7 +4,7 @@ We've all been there: you have a project you're trying to get from concept to MV
 
 [Queue the black-and-white infomercial montage]
 
-![Oh Golly](https://img.buzzfeed.com/buzzfeed-static/static/2015-09/14/19/enhanced/webdr14/anigif_enhanced-10814-1442273409-4.gif?output-quality=auto&output-format=auto&downsize=360:*)
+![Oh Golly](https://i.pinimg.com/originals/ac/ca/d7/accad733e9db914aaee65cb29fe9761f.gif)
 
 Enter the 'Parcel Bundler Boilerplate Collection' - a collection of (relatively) unopinionated build templates that leverages [Parcel Bundler](https://github.com/parcel-bundler/parcel) in each. The aim of each boilerplate is to expose a generic workflow to the user that can be easily customized without having to read loads of documentation.
 
